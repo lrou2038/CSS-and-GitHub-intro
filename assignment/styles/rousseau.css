@@ -1,0 +1,95 @@
+/*  ADD your styles below --- WHERE INDICATED ---
+    Keep all the comments I have provided.
+    Where I have commented "keep," DO NOT touch that line!
+    */
+
+body {
+    background: #c5f19d; /* must change */
+    color: #000; /* may be #000 or #fff */
+    font-family: Calibri, Arial, sans-serif; /* keep */
+}
+
+article {
+    background: #c8dd69;
+    width: 800px; /* keep */
+    padding: 20px; /* keep */
+    margin: auto; /* keep */
+    border: 2px solid; /* can delete or change */
+}
+
+/* --- ADD YOUR STYLES BELOW --- */
+
+header {
+    background: #61700c;
+    color: #fff;
+    width: 800px; /* keep */
+    padding: 20px; /* keep */
+    margin: auto; /* keep */
+    border: 2px solid; /* can delete or change */
+}
+
+footer {
+    background: #61700c;
+    color: #fff;
+    width: 800px; /* keep */
+    padding: 20px; /* keep */
+    margin: auto; /* keep */
+    border: 2px solid; /* can delete or change */
+}
+
+aside {
+    background: #c5f19d;
+    width: 800px; /* keep */
+    padding: 20px; /* keep */
+    margin: auto; /* keep */
+    border: 2px solid; /* can delete or change */
+}
+
+figure {
+    background: #e2f373;
+    width: 800px; /* keep */
+    padding: 20px; /* keep */
+    margin: auto; /* keep */
+    border: 2px solid; /* can delete or change */
+}
+
+/* --- add your PSEUDO CLASSES below this line --- */
+
+a:link {
+    color: #434f00;
+}
+a:visited {
+    color: #434f00;
+}
+a:focus {
+    color: #434f00;
+    outline-color: #434f00;
+    text-decoration: none;
+}
+a:hover {
+    color: #434f00;
+    text-decoration: none;
+}
+a:active {
+    color: #434f00;
+}
+
+
+footer a:link {
+    color: #e2f373;
+}
+footer a:visited {
+    color: #e2f373;
+}
+footer a:focus {
+    color: #e2f373;
+    outline-color: #e2f373;
+    text-decoration: none;
+}
+footer a:hover {
+    color: #e2f373;
+    text-decoration: none;
+}
+footer a:active {
+    color: #e2f373;
+}
